@@ -19,7 +19,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="CubieColors.ctl" Type="VI" URL="../CubieColors.ctl"/>
+		<Item Name="CubeStructure.vi" Type="VI" URL="../CubeStructure.vi"/>
+		<Item Name="FaceColors.ctl" Type="VI" URL="../FaceColors.ctl"/>
+		<Item Name="FaceControl.ctl" Type="VI" URL="../FaceControl.ctl"/>
+		<Item Name="FaceletColorRing.ctl" Type="VI" URL="../FaceletColorRing.ctl"/>
+		<Item Name="FaceletID.ctl" Type="VI" URL="../FaceletID.ctl"/>
+		<Item Name="FaceSymbols.ctl" Type="VI" URL="../FaceSymbols.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
