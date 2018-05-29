@@ -24,6 +24,8 @@
 		<Item Name="FaceControl.ctl" Type="VI" URL="../FaceControl.ctl"/>
 		<Item Name="FaceletColorRing.ctl" Type="VI" URL="../FaceletColorRing.ctl"/>
 		<Item Name="FaceletID.ctl" Type="VI" URL="../FaceletID.ctl"/>
+		<Item Name="FaceSymbol2Color2.vi" Type="VI" URL="../FaceSymbol2Color2.vi"/>
+		<Item Name="FaceSymbol2Color3.vi" Type="VI" URL="../FaceSymbol2Color3.vi"/>
 		<Item Name="FaceSymbols.ctl" Type="VI" URL="../FaceSymbols.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
