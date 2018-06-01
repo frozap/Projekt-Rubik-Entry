@@ -22,8 +22,10 @@
 		<Item Name="CubeStructure.vi" Type="VI" URL="../CubeStructure.vi"/>
 		<Item Name="FaceColors.ctl" Type="VI" URL="../FaceColors.ctl"/>
 		<Item Name="FaceControl.ctl" Type="VI" URL="../FaceControl.ctl"/>
+		<Item Name="FaceletAddress2Symbol.vi" Type="VI" URL="../FaceletAddress2Symbol.vi"/>
 		<Item Name="FaceletColorRing.ctl" Type="VI" URL="../FaceletColorRing.ctl"/>
 		<Item Name="FaceletID.ctl" Type="VI" URL="../FaceletID.ctl"/>
+		<Item Name="FaceSymbol2Color.vi" Type="VI" URL="../FaceSymbol2Color.vi"/>
 		<Item Name="FaceSymbol2Color2.vi" Type="VI" URL="../FaceSymbol2Color2.vi"/>
 		<Item Name="FaceSymbol2Color3.vi" Type="VI" URL="../FaceSymbol2Color3.vi"/>
 		<Item Name="FaceSymbols.ctl" Type="VI" URL="../FaceSymbols.ctl"/>
