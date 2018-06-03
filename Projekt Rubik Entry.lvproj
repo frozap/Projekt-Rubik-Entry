@@ -10,6 +10,7 @@
 		<Property Name="IOScan.Priority" Type="UInt">9</Property>
 		<Property Name="IOScan.ReportModeConflict" Type="Bool">true</Property>
 		<Property Name="IOScan.StartEngineOnDeploy" Type="Bool">false</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -25,12 +26,15 @@
 		<Item Name="FaceletAddress2Symbol.vi" Type="VI" URL="../FaceletAddress2Symbol.vi"/>
 		<Item Name="FaceletColorRing.ctl" Type="VI" URL="../FaceletColorRing.ctl"/>
 		<Item Name="FaceletID.ctl" Type="VI" URL="../FaceletID.ctl"/>
-		<Item Name="FaceSymbol2Color.vi" Type="VI" URL="../FaceSymbol2Color.vi"/>
 		<Item Name="FaceSymbol2Color2.vi" Type="VI" URL="../FaceSymbol2Color2.vi"/>
 		<Item Name="FaceSymbol2Color3.vi" Type="VI" URL="../FaceSymbol2Color3.vi"/>
-		<Item Name="FaceSymbols.ctl" Type="VI" URL="../FaceSymbols.ctl"/>
+		<Item Name="FaceSymbols.ctl" Type="VI" URL="../../Projekt-Rubik-Library/FaceSymbols.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="SingmasterMoves.ctl" Type="VI" URL="/&lt;userlib&gt;/RubikSourceLibrary/SingmasterMoves.ctl"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
